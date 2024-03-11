@@ -1,0 +1,449 @@
+.frame-child {
+  height: 120px;
+  width: 1440px;
+  position: relative;
+  display: none;
+  min-height: 120px;
+  max-width: 100%;
+}
+.supersuper-logo-1-icon8 {
+  height: 119px;
+  width: 119px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-item,
+.home9 {
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.home9 {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-item {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-gray-100);
+}
+.models10 {
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+  margin-left: -164px;
+}
+.frame-div {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 var(--padding-11xl) 0 0;
+}
+.frame-c,
+.frame-div,
+.home-label {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-c {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 20px;
+}
+.home-label {
+  height: 69px;
+  width: 310px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+}
+.history10 {
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.frame-e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+}
+.login-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.vector-arrow-icon {
+  height: 33.3px;
+  width: 33.4px;
+  position: relative;
+  z-index: 2;
+}
+.search9 {
+  height: 28px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.frame-d,
+.login-button {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.login-button {
+  align-items: flex-start;
+  padding: 16px 14px var(--padding-2xl);
+  position: relative;
+  gap: 0 14px;
+  text-align: left;
+  font-size: var(--font-size-9xl-7);
+  color: var(--color-dimgray);
+}
+.frame-d {
+  align-items: center;
+  padding: 0 8px 0 0;
+  gap: 0 36px;
+}
+.instance-child10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-silver);
+}
+.polygon-background-icon {
+  position: absolute;
+  height: 38.75%;
+  width: 50%;
+  top: 28.75%;
+  right: 25%;
+  bottom: 32.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.rectangle-parent11 {
+  height: 80px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.instance-child11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50.79px;
+  background-color: var(--color-silver);
+}
+.login-1-icon15 {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 9px;
+  right: 14px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.rectangle-parent12 {
+  height: 80px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.frame-b,
+.frame-f {
+  width: 174px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 14px;
+}
+.frame-b {
+  width: 1119px;
+  align-items: center;
+  gap: 0 20px;
+  max-width: 100%;
+}
+.right-frame-child,
+.vector-parent {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+}
+.vector-parent {
+  align-self: stretch;
+  background-color: #343434;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1px var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.right-frame-child {
+  height: 80px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-lightsalmon);
+  display: none;
+}
+.right-1-icon9 {
+  height: 56px;
+  width: 56px;
+  position: relative;
+  object-fit: cover;
+  z-index: 3;
+}
+.current-models6 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+  z-index: 3;
+}
+.login-frame,
+.right-frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.right-frame {
+  flex: 1;
+  background-color: var(--color-lightsalmon);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  align-items: flex-end;
+  padding: 11px var(--padding-13xl);
+  gap: 0 6px;
+  z-index: 2;
+}
+.login-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 49px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.polygon-shape-icon3 {
+  width: 508px;
+  height: 840px;
+  position: absolute;
+  margin: 0 !important;
+  right: -139px;
+  bottom: 53px;
+  object-fit: contain;
+  z-index: 3;
+}
+.image-7-icon {
+  width: 415px;
+  height: 62px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.lamborghini-urus-is {
+  width: 981px;
+  position: relative;
+  display: inline-block;
+}
+.image-frame,
+.lamborghini-urus-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.lamborghini-urus-frame {
+  flex-direction: column;
+  gap: 39px 0;
+}
+.image-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-41xl) 24px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.lamborghini-urus-1-icon {
+  height: 452px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 359px;
+  z-index: 1;
+}
+.base-price-us203995,
+.engine-4l-twin-turbo-v8,
+.mph-32-seconds,
+.power-641-hp,
+.torque-627-lb-ft {
+  margin-bottom: 0;
+}
+.base-price-us203995-engine {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.base-price-us203995-engine-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 4;
+}
+.base-info-text,
+.lamborghini-urus-1-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.base-info-text {
+  width: 512px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 26px 0 0;
+  box-sizing: border-box;
+  min-width: 512px;
+}
+.lamborghini-urus-1-parent {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 34px;
+}
+.desktop-10,
+.desktop-10-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.desktop-10-inner {
+  width: 1218px;
+  flex-direction: row;
+  padding: 0 var(--padding-41xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.desktop-10 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 79px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1250px) {
+  .frame-c {
+    display: none;
+  }
+  .home-label {
+    width: 0;
+  }
+  .desktop-10-inner,
+  .image-frame {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .base-info-text {
+    flex: 1;
+  }
+  .lamborghini-urus-1-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-d {
+    gap: 0 36px;
+  }
+  .current-models6 {
+    font-size: var(--font-size-19xl);
+  }
+  .right-frame {
+    flex-wrap: wrap;
+  }
+  .lamborghini-urus-frame {
+    gap: 39px 0;
+  }
+  .lamborghini-urus-1-icon {
+    min-width: 100%;
+  }
+  .base-price-us203995-engine-container {
+    font-size: var(--font-size-7xl);
+  }
+  .base-info-text {
+    min-width: 100%;
+  }
+  .lamborghini-urus-1-parent {
+    gap: 0 34px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .current-models6 {
+    font-size: var(--font-size-10xl);
+  }
+  .lamborghini-urus-is {
+    font-size: var(--font-size-base);
+  }
+  .base-price-us203995-engine-container {
+    font-size: var(--font-size-lgi);
+  }
+}

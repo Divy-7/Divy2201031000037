@@ -1,0 +1,311 @@
+.desktop-7-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 120px;
+  min-height: 120px;
+  max-width: 100%;
+}
+.home6 {
+  position: absolute;
+  top: 43px;
+  left: 300px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.supersuper-logo-1-icon5 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 119px;
+  height: 119px;
+  object-fit: cover;
+}
+.desktop-7-item {
+  position: absolute;
+  top: 25px;
+  left: 804px;
+  width: 413px;
+  height: 70px;
+}
+.search6 {
+  position: absolute;
+  top: 41px;
+  left: 865px;
+  font-size: var(--font-size-9xl-7);
+  color: var(--color-dimgray);
+  text-align: left;
+  display: inline-block;
+  height: 28px;
+}
+.vertical-vector-icon {
+  position: absolute;
+  height: 3.25%;
+  width: 2.32%;
+  top: 4%;
+  right: 40.87%;
+  bottom: 92.74%;
+  left: 56.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-silver);
+}
+.rectangle-logins-icon {
+  position: absolute;
+  height: 38.75%;
+  width: 50%;
+  top: 28.75%;
+  right: 25%;
+  bottom: 32.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-rectangle-group {
+  position: absolute;
+  top: 20px;
+  left: 1245px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.login-button-icon1 {
+  position: absolute;
+  height: 3.03%;
+  width: 2.78%;
+  top: 4.2%;
+  right: 9.38%;
+  bottom: 92.77%;
+  left: 87.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50.79px;
+  background-color: var(--color-silver);
+}
+.login-1-icon11 {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 9px;
+  right: 14px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent7 {
+  width: 100%;
+  position: absolute;
+  top: 21px;
+  left: 1339px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 80px;
+}
+.login-1-icon12 {
+  position: absolute;
+  top: 30px;
+  left: 1353px;
+  width: 52px;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.models-text {
+  position: absolute;
+  top: 30px;
+  left: 416px;
+  background-color: var(--color-gray-100);
+  width: 194px;
+  height: 65px;
+}
+.history7,
+.models7 {
+  position: absolute;
+  top: 43px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.models7 {
+  left: 446px;
+  cursor: pointer;
+}
+.history7 {
+  left: 630px;
+}
+.right-rectangle {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  background-color: var(--color-lightsalmon);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 80px;
+  max-width: 100%;
+}
+.current-models3 {
+  margin: 0;
+  position: absolute;
+  top: 131px;
+  left: 94px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+}
+.right-1-icon6 {
+  position: absolute;
+  height: 5.47%;
+  width: 3.89%;
+  top: 12.99%;
+  right: 93.89%;
+  bottom: 81.54%;
+  left: 2.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.car-info-icon {
+  position: absolute;
+  top: 131px;
+  left: 1071px;
+  width: 508px;
+  height: 840px;
+  object-fit: contain;
+}
+.the-huracn-is {
+  position: absolute;
+  top: 340px;
+  left: 60px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 999px;
+  height: 211px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+}
+.huracan-1-icon,
+.image-2-icon {
+  position: absolute;
+  top: 492px;
+  left: 60px;
+  width: 797px;
+  height: 394px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 254px;
+  left: 61px;
+  width: 495.5px;
+  height: 40px;
+  max-width: 100%;
+}
+.huracn-evo,
+.huracn-evo-spyder,
+.huracn-sto,
+.huracn-tecnica {
+  margin: 0;
+}
+.huracn-evo-huracn-container {
+  position: absolute;
+  top: 729px;
+  left: 898px;
+  text-decoration: underline;
+  color: var(--color-black);
+  text-align: left;
+}
+.parent-rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.right-7-icon1 {
+  position: absolute;
+  height: 93.33%;
+  width: calc(100% - 4px);
+  top: 6.67%;
+  right: 2px;
+  bottom: 0;
+  left: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+}
+.parent-rectangle-group {
+  position: absolute;
+  top: 911px;
+  left: 639px;
+  width: 60px;
+  height: 60px;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 750px) {
+  .current-models3 {
+    font-size: var(--font-size-19xl);
+  }
+  .huracn-evo-huracn-container {
+    font-size: var(--font-size-7xl);
+  }
+  .desktop-7 {
+    gap: var(--gap-0);
+  }
+}
+@media screen and (max-width: 450px) {
+  .current-models3 {
+    font-size: var(--font-size-10xl);
+  }
+  .the-huracn-is {
+    font-size: var(--font-size-base);
+  }
+  .huracn-evo-huracn-container {
+    font-size: var(--font-size-lgi);
+  }
+}

@@ -1,0 +1,591 @@
+.desktop-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 120px;
+}
+.desktop-4-item,
+.search {
+  position: absolute;
+  top: 25px;
+  left: 804px;
+  width: 413px;
+  height: 70px;
+}
+.search {
+  top: 41px;
+  left: 865px;
+  font-size: var(--font-size-9xl-7);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 93.4px;
+  height: 28px;
+}
+.vector-icon {
+  position: absolute;
+  height: 3.25%;
+  width: 2.32%;
+  top: 4%;
+  right: 40.87%;
+  bottom: 92.74%;
+  left: 56.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-silver);
+}
+.vector-icon1 {
+  position: absolute;
+  height: 38.75%;
+  width: 50%;
+  top: 28.75%;
+  right: 25%;
+  bottom: 32.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 20px;
+  left: 1245px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 3.03%;
+  width: 2.78%;
+  top: 4.2%;
+  right: 9.38%;
+  bottom: 92.77%;
+  left: 87.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50.79px;
+  background-color: var(--color-silver);
+}
+.login-1-icon {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 9px;
+  right: 14px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-group {
+  position: absolute;
+  top: 21px;
+  left: 1339px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 80px;
+  height: 80px;
+}
+.login-1-icon1,
+.revuelto-1-icon {
+  position: absolute;
+  top: 30px;
+  left: 1353px;
+  width: 52px;
+  height: 61px;
+  object-fit: cover;
+}
+.revuelto-1-icon {
+  top: 120px;
+  left: 0;
+  width: 1440px;
+  height: 680px;
+}
+.wrapper-polygon-1-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.18);
+}
+.wrapper-polygon-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.right-1-icon {
+  position: absolute;
+  height: 62.22%;
+  width: 62.22%;
+  top: 18.89%;
+  right: 18.89%;
+  bottom: 18.89%;
+  left: 18.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-1 {
+  position: absolute;
+  top: 435px;
+  left: 25px;
+  backdrop-filter: blur(4px);
+  width: 90px;
+  height: 90px;
+}
+.wrapper-line-1-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.094);
+}
+.wrapper-line-1 {
+  position: absolute;
+  top: 714px;
+  left: 200px;
+  width: 85.5px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-line-2-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.094);
+}
+.wrapper-line-2 {
+  position: absolute;
+  top: 714px;
+  left: 328px;
+  width: 85.5px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-line-3-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.094);
+}
+.wrapper-line-3 {
+  position: absolute;
+  top: 714px;
+  left: 453px;
+  width: 85.5px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.choose {
+  margin: 0;
+}
+.your-dream-car {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.choose-your-dream-container {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  backdrop-filter: blur(4px);
+}
+.choose-your-dream-car {
+  position: absolute;
+  top: 215px;
+  left: 200px;
+  backdrop-filter: blur(4px);
+  width: 471px;
+  height: 155px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-neue-haas-grotesk-text-pro);
+}
+.facebook-icon,
+.twitterx-icon {
+  position: absolute;
+  top: 820px;
+  left: 1265px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.facebook-icon {
+  left: 1181px;
+}
+.discord-new-icon,
+.instagram-icon,
+.supersuper-logo-2-icon,
+.wechat-icon {
+  position: absolute;
+  top: 820px;
+  left: 1349px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.instagram-icon,
+.supersuper-logo-2-icon,
+.wechat-icon {
+  left: 1097px;
+}
+.instagram-icon,
+.supersuper-logo-2-icon {
+  left: 1013px;
+}
+.supersuper-logo-2-icon {
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 120px;
+}
+.history,
+.models {
+  margin: 0;
+  position: absolute;
+  top: 30px;
+  left: 620px;
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.models {
+  top: 35px;
+  left: 440px;
+  cursor: pointer;
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 800px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  filter: blur(4px);
+  width: 1430px;
+  height: 224px;
+}
+.home {
+  margin: 0;
+  position: absolute;
+  top: 35px;
+  left: 298px;
+  font-size: var(--font-size-13xl);
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.discord-new-icon1,
+.facebook-icon1,
+.instagram-icon1,
+.twitterx-icon1,
+.wechat-icon1 {
+  position: absolute;
+  top: 820px;
+  left: 1255px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.discord-new-icon1,
+.facebook-icon1,
+.instagram-icon1,
+.wechat-icon1 {
+  left: 1171px;
+}
+.discord-new-icon1,
+.instagram-icon1,
+.wechat-icon1 {
+  left: 1339px;
+}
+.instagram-icon1,
+.wechat-icon1 {
+  left: 1087px;
+}
+.instagram-icon1 {
+  left: 1003px;
+}
+.all-rights-reserved,
+.copyright-2024 {
+  margin: 0;
+}
+.copyright-2024-container {
+  position: absolute;
+  top: 956px;
+  left: 20px;
+  filter: blur(4px);
+}
+.span {
+  color: var(--color-black);
+}
+.company1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.company {
+  position: absolute;
+  top: 827px;
+  left: 20px;
+  filter: blur(4px);
+}
+.sitemap1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.sitemap {
+  position: absolute;
+  top: 871px;
+  left: 662px;
+  filter: blur(4px);
+}
+.accessibility1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.accessibility {
+  position: absolute;
+  top: 873px;
+  left: 457px;
+  filter: blur(4px);
+}
+.cookie-settings1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.cookie-settings {
+  position: absolute;
+  top: 873px;
+  left: 234px;
+  filter: blur(4px);
+}
+.privacy-legal {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.privacy-legal-container {
+  position: absolute;
+  top: 871px;
+  left: 20px;
+  filter: blur(4px);
+}
+.media-center1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.media-center {
+  position: absolute;
+  top: 827px;
+  left: 662px;
+  filter: blur(4px);
+}
+.sustainability1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.sustainability {
+  position: absolute;
+  top: 827px;
+  left: 455px;
+  filter: blur(4px);
+}
+.span1 {
+  color: var(--color-black);
+}
+.careear1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.careear {
+  position: absolute;
+  top: 827px;
+  left: 316px;
+  filter: blur(4px);
+}
+.span2 {
+  color: var(--color-black);
+}
+.financial1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.financial {
+  position: absolute;
+  top: 827px;
+  left: 166px;
+  filter: blur(4px);
+}
+.empty-space,
+.rectangle-div {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-div {
+  top: 118px;
+  left: 928px;
+  background-color: var(--color-gray-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 404px;
+  height: 784px;
+}
+.empty-space {
+  top: 120px;
+  left: 1280px;
+  background-color: var(--color-lightsalmon);
+  width: 50px;
+  height: 50px;
+}
+.empty-space-icon {
+  position: absolute;
+  top: 125px;
+  left: 1285px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.accessories,
+.customization,
+.financial2,
+.history1,
+.news,
+.podcast,
+.services,
+.warranty {
+  margin: 0;
+  position: absolute;
+  font-size: var(--font-size-17xl);
+  font-weight: 400;
+  font-family: inherit;
+  text-align: center;
+}
+.services {
+  top: 512px;
+  left: 984px;
+  display: inline-block;
+  width: 179px;
+  height: 40px;
+}
+.accessories,
+.customization,
+.financial2,
+.history1,
+.news,
+.podcast,
+.warranty {
+  top: 477px;
+  left: 988px;
+}
+.accessories,
+.customization,
+.history1,
+.news,
+.podcast,
+.warranty {
+  top: 717px;
+  left: 983px;
+}
+.accessories,
+.customization,
+.history1,
+.podcast,
+.warranty {
+  top: 619px;
+  left: 988px;
+}
+.accessories,
+.customization,
+.podcast,
+.warranty {
+  top: 815px;
+  left: 983px;
+}
+.accessories,
+.customization,
+.warranty {
+  top: 378px;
+  left: 988px;
+}
+.accessories,
+.customization {
+  top: 280px;
+}
+.accessories {
+  top: 182px;
+}
+.desktop-4 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

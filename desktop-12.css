@@ -1,0 +1,304 @@
+.desktop-12-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 120px;
+}
+.home11 {
+  position: absolute;
+  top: 43px;
+  left: 300px;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.desktop-12-item {
+  position: absolute;
+  top: 25px;
+  left: 804px;
+  width: 413px;
+  height: 70px;
+}
+.supersuper-logo-1-icon10 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 119px;
+  height: 119px;
+  object-fit: cover;
+}
+.search11 {
+  position: absolute;
+  top: 41px;
+  left: 865px;
+  font-size: var(--font-size-9xl-7);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 93.4px;
+  height: 28px;
+}
+.left-vector-icon {
+  position: absolute;
+  height: 3.25%;
+  width: 2.32%;
+  top: 4%;
+  right: 40.87%;
+  bottom: 92.74%;
+  left: 56.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-silver);
+}
+.login-area-icon {
+  position: absolute;
+  height: 38.75%;
+  width: 50%;
+  top: 28.75%;
+  right: 25%;
+  bottom: 32.5%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 20px;
+  left: 1245px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 80px;
+  height: 80px;
+}
+.right-vector-icon {
+  position: absolute;
+  height: 3.03%;
+  width: 2.78%;
+  top: 4.2%;
+  right: 9.38%;
+  bottom: 92.77%;
+  left: 87.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50.79px;
+  background-color: var(--color-silver);
+}
+.login-1-icon17 {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 9px;
+  right: 14px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 21px;
+  left: 1339px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 80px;
+  height: 80px;
+}
+.login-1-icon18 {
+  position: absolute;
+  top: 30px;
+  left: 1353px;
+  width: 52px;
+  height: 61px;
+  object-fit: cover;
+}
+.triangle-shape-icon {
+  position: absolute;
+  top: 164px;
+  left: 991px;
+  width: 597px;
+  height: 607px;
+  object-fit: contain;
+}
+.history-models-frame,
+.third-rectangle {
+  position: absolute;
+  top: 30px;
+  left: 416px;
+  background-color: var(--color-gray-100);
+  width: 194px;
+  height: 65px;
+}
+.third-rectangle {
+  top: 120px;
+  left: 0;
+  background-color: var(--color-lightsalmon);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 80px;
+}
+.history12,
+.legacy-models3 {
+  position: absolute;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.history12 {
+  top: 43px;
+  left: 630px;
+  text-align: center;
+}
+.legacy-models3 {
+  margin: 0;
+  top: 131px;
+  left: 94px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.right-1-icon11 {
+  position: absolute;
+  height: 5.47%;
+  width: 3.89%;
+  top: 12.99%;
+  right: 93.89%;
+  bottom: 81.54%;
+  left: 2.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lamborghini-murcilago {
+  margin: 0;
+  position: absolute;
+  top: 213px;
+  left: 75px;
+  font-size: var(--font-size-29xl);
+  text-decoration: underline;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.the-new-lamborghini {
+  margin: 0;
+}
+.the-new-lamborghini-container {
+  position: absolute;
+  top: 295px;
+  left: 75px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 898px;
+  height: 172px;
+}
+.desktop-12-inner {
+  position: absolute;
+  top: 846px;
+  left: -49px;
+  width: 733px;
+  height: 229px;
+}
+.image-placeholder {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.right-7-icon6 {
+  position: absolute;
+  height: 93.33%;
+  width: calc(100% - 4px);
+  top: 6.67%;
+  right: 2px;
+  bottom: 0;
+  left: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+}
+.image-9-icon,
+.image-placeholder-parent {
+  position: absolute;
+  top: 931px;
+  left: 690px;
+  width: 60px;
+  height: 60px;
+}
+.image-9-icon {
+  top: 468px;
+  left: 318px;
+  width: 670px;
+  height: 380px;
+  object-fit: cover;
+}
+.models12 {
+  position: absolute;
+  top: 43px;
+  left: 446px;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.engine-62l-nat-aspirated,
+.mph-38-seconds,
+.power-5766-bhp,
+.torque-4794-ft-lbs,
+.years-2001-2006 {
+  margin-bottom: 0;
+}
+.years-2001-2006-engine-62 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+}
+.years-2001-2006-container {
+  position: absolute;
+  top: 673px;
+  left: 1002px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.desktop-12 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
